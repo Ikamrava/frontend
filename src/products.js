@@ -15,7 +15,7 @@ export const products = [
         id:2,
         name: "Iphone",
         image: "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/refurb-iphone-12-white-2020?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=1635202752000",
-        description: "wflmwf;lmw;fm;wqmfe#;qwmf#;mqwf;",
+        description: "wflmwf;lmw;fm;wqmfe#;qwmf#;mqwf;wdwqdqwdqwdqwdwqdqwdqwdqwdqwdqwdqwdqwdqwdwqdqwdqd",
         brand:"Apple",
         category: "Cell Phone",
         price:1025.25,
